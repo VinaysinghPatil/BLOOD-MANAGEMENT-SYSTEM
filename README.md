@@ -10,7 +10,7 @@ Go to appropriate directory\
     $python3 Patient_form.py
 
 #Functional requirements:
-1)View Details of all person and their blood group
+1)View Details of all person and their blood group\
 2)Adding new patient information into databse\
 3)Modify patient’s information into database\
 4)Delete patient’s information from database\
