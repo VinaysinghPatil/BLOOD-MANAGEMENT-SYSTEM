@@ -7,7 +7,7 @@ GROUP MEMBER:-\
 
 #How To Run :\
 Go to appropriate directory\
-$python3  python3 Patient_form.py
+    $python3 Patient_form.py
 
 #Functional requirements:
 1) View Details of all person and their blood group\
