@@ -1,5 +1,8 @@
 # BLOOD-MANAGEMENT-SYSTEM
-GROUP MEMBER:-
+GROUP MEMBER:-\
 1)111903124- VINAYSINGH PANDURANG PATI\
 2)111903122- VEDASHREE SUDHIR SATPUTE\
 
+#How To Run :\
+Go to appropriate directory\
+$python3  python3 Patient_form.py \
